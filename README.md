@@ -3,6 +3,8 @@
 ## Overview
 This is a simple C++ quiz program designed for teachers and students. It allows teachers to create multiple-choice quizzes and students to take them. The program evaluates the answers, calculates the score, and displays a text-based fireworks celebration for perfect scores.
 
+[![student output](image.png)]
+
 ## Features
 - Teacher mode:
   - Create a quiz by entering questions and four possible answers.
